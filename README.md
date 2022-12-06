@@ -1,6 +1,6 @@
 # Theseus-Maze-Solver-Using-Stack
 Theseus needs to find a way out. His goal is to search and find any possible exits inside the maze. In our program our maze has the form of a two-dimensional array.
-The repertoire has a txt file which holds critical information so that our program can work.
+The repositorie has a txt file which holds critical information so that our program can work.
 - The first line need two numbers: These numbers show the dimensions of the maze, meaning the total number of rows and columns of the array
 - The second line also needs two numbers: The first one holds the row of Theseus' starting point and the second one holds the column of Theseus' starting point inside the maze's 2D array
 - The rest of the lines show the form of all the array's elements: 1 if it is a block, 0 if it is a valid path, V if it is already visited and lastly E for the starting point
